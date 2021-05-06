@@ -1,0 +1,14 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "login_ui",
+            "request": "launch",
+            "type": "dart",
+            "showMemoryUsage": true,
+            "flutterMode": "release"
+        }
+    ]
+}
